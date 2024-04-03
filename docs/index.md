@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## elemaraty2000
+# elemaraty2000
 ## Commands
 مرحبا بكم في عالمي
 
